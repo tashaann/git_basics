@@ -1,3 +1,2 @@
 a second file
-ore changes
-by adding text simultaneously to the same document
+let's create a conflict by adding text simultaneously to the same document
